@@ -27,12 +27,12 @@ Origine : [Robot](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-robot/)
 > http://localhost
 
 #### tentez 
-> nc robot.cyrhades.fr:4000
+> nc robot.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
